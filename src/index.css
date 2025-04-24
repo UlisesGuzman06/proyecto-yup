@@ -1,0 +1,9 @@
+* {
+    margin: 0px;
+    padding: 0px;
+  }
+  
+body{
+    background-image: url("https://cdn.pixabay.com/photo/2018/04/04/22/14/abstract-3291293_1280.jpg");
+    background-size: cover;
+  }

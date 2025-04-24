@@ -1,0 +1,30 @@
+
+.buttonContainer{
+  display: flex;
+  
+  margin: 30px auto;
+  justify-content: center;
+  align-items: center;
+}
+.button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100px;
+  height: 40px;
+  color: #fff;
+  background-color:rgb(70, 166, 255) ;
+  font-size: 15px;
+  font-weight: 700;
+  border: none;
+  }
+  
+  .button:hover {
+    background-color: rgb(9, 56, 100);
+    cursor: pointer;
+  }
+  
+  .disabled {
+    background-color: #9a9daa;
+    cursor: not-allowed;
+  }
